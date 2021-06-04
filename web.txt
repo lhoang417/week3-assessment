@@ -1,0 +1,2 @@
+The internet moves data from one location to another. It is a network of networks. It is made up of servers and routers. It's how the data gets transferred from one place to another.
+When you click on a link, you are clicking on a URL. URL stands for Uniform Resource Locator. When you click on a link, there are the Protocol which is Htpps://, then the domain(IP address), and then the endpoint, the specified location of the link.
